@@ -8,5 +8,5 @@
      - cristomartinez@alumnos.uai.cl
      - cristobal.martinez@trebol-it.com
 - 😄  Me llaman el Cristo, el que lleva a Cristo en su espalda.
-- ⚡ Fun fact: Me gusta mucho el anime y los deportes en general. Hay un video viral mi cayendome de una barra :(
+- ⚡ Fun fact: Me gusta mucho el anime y los deportes en general. Hay un video viral mio cayendome de una barra :(
 
