@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Actualmente me encuentro trabajando en ****Trebol-IT***, especificamente haciendo mi pasantía profesional como vía de titulación para la **Universidad Adolfo Ibañez**.
+- 🔭 Actualmente me encuentro trabajando en ***Trebol-IT***, especificamente haciendo mi pasantía profesional como vía de titulación para la **Universidad Adolfo Ibañez**.
 - 🌱 Estoy aprendiendo en la academia de Trebol-IT las tecnologías del mundo TI. Busco aprender TypeScript y sistemas operativos.
 - 📫 Me pueden contactar en los siguientes mails:
      - cristobal.martinez55@gmail.com
