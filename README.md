@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Cristo-Giff/Cristo-Giff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
       - cristobal.martinez@trebol-it.com
 - 😄 Pronouns: ... Me llaman el Cristo, el que lleva a Cristo en su espalda.
 - ⚡ Fun fact: ... 
--->
+
